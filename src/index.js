@@ -1,1 +1,3 @@
-console.log('starting up!')
+import './style.scss';
+
+console.log('starting up!');
